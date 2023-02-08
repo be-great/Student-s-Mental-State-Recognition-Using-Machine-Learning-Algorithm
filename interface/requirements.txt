@@ -1,0 +1,8 @@
+Flask
+jinja2
+Werkzeug
+mne
+numpy
+pandas
+matplotlib
+scikit-learn==1.0.2
